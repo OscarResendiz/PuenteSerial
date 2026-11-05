@@ -73,3 +73,4 @@ C:\Oscar\Repositorios\PuenteSerial\PuenteSerial\obj\Debug\net10.0-windows\refint
 C:\Oscar\Repositorios\PuenteSerial\PuenteSerial\obj\Debug\net10.0-windows\PuenteSerial.pdb
 C:\Oscar\Repositorios\PuenteSerial\PuenteSerial\obj\Debug\net10.0-windows\PuenteSerial.genruntimeconfig.cache
 C:\Oscar\Repositorios\PuenteSerial\PuenteSerial\obj\Debug\net10.0-windows\ref\PuenteSerial.dll
+D:\RepositoriosGit\PuenteSerial\PuenteSerial\obj\Debug\net10.0-windows\PuenteSerial.sourcelink.json

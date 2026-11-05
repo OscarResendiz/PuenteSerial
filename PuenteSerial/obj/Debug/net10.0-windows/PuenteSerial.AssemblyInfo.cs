@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PuenteSerial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8e27bcef5c87534f469e64bf7035d69b76a3378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+836b98b0853ec6f5bf8c0286c2df4d6df2492a94")]
 [assembly: System.Reflection.AssemblyProductAttribute("PuenteSerial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PuenteSerial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
